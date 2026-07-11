@@ -591,7 +591,7 @@ elif menu == "🎤 Mock Interview":
                 st.session_state.answer_submitted = False
                 st.session_state.interview_started = False
 
-                st.rerun() 
+                st.rerun()
 # ====================================================
 # STUDY ROADMAP
 # ====================================================

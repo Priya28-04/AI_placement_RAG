@@ -3,6 +3,7 @@
 2.first create environment
 uv venv
 activate it
+.venv\Scripts\activate
 
 3.then run requirements
 uv pip install -r requirements.txt
